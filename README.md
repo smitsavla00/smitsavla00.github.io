@@ -63,8 +63,8 @@ efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% inc
 in test coverage</b>
 
 
-## 💻 Framework WalkThrough
-[![Test Automation Framework Video](https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/thumbnail.png)](https://youtu.be/BCaqX6XCKhw)
+<!-- ## 💻 Framework WalkThrough
+[![Test Automation Framework Video](https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
 
 ## 💻 My Projects 
 
@@ -72,7 +72,7 @@ in test coverage</b>
 
 [Automated Regression Testing Framework Java](https://github.com/smitsavla00/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
 
-[Automated Regression Testing Framework Python](https://github.com/smitsavla00/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python.
+[Automated Regression Testing Framework Python](https://github.com/smitsavla00/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python. -->
 
 
 ## 💼 Technical Skills
@@ -90,6 +90,7 @@ in test coverage</b>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="Uipath">
 </p>
 
 ## 📈 GitHub Stats 
@@ -99,7 +100,7 @@ in test coverage</b>
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:Smitsavla00@gmail.com">Smitsavla00@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:Smitsavla00@gmail.com">Smitsavla00@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/smitsavla/">LinkedIn</a>.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/smitsavla//">
