@@ -6,7 +6,7 @@
 
 <h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/smitsavla/" target="_blank" rel="noreferrer">Jatin</a> 👋</h3>
 
-<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
+<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Coach 📸, and Passionate Gardener 🌱</h2>
 
 ### 🤝 Connect with me:
 
