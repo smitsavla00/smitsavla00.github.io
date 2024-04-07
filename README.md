@@ -64,7 +64,7 @@ in test coverage</b>
 
 
 ## 💻 Framework WalkThrough
-[![Test Automation Framework Video](https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
+[![Test Automation Framework Video](https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/thumbnail.png)](https://youtu.be/BCaqX6XCKhw)
 
 ## 💻 My Projects 
 
