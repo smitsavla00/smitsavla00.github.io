@@ -4,33 +4,33 @@
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/smitsavla/" target="_blank" rel="noreferrer">Jatin</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/smitsavla/" target="_blank" rel="noreferrer">Smit</a> 👋</h3>
 
-<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Coach 📸, and Passionate Gardener 🌱</h2>
+<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Online Educator 👨‍🏫, and Swimmer 🏊</h2>
 
 ### 🤝 Connect with me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/smitsavla//">
-    <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+    <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/linkedin.svg" alt="Smit Savla | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+  <a href="https://www.instagram.com/smit_savla/">
+    <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/instagram.svg" alt="Smit | Instagram" width="21px"/>
   </a>
-  <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+  <a href="https://wa.me/919987162165?text=Hello">
+    <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/whatsapp.png" alt="Smit | Whatsapp" width="21px"/>
   </a>
 </p>
   
 ## 🥇 Certifications
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/aws-cp.png" alt="Jatin | AWS-CP" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/aws-dev.png" alt="Jatin | AWS-DEV" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/aws-sa.png" alt="Jatin | AWS-SA" width="100 px"/>
-   <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/ocpjp.png" alt="Jatin | AWS-SA" width="100 px"/>
-    <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/safe.png" alt="Jatin | AWS-SA" width="100 px"/>
-     <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/csm.webp" alt="Jatin | AWS-SA" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/ISTQB.png" alt="Smit | ISTQB" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/aws-cp.png" alt="Smit | AWS-CP" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/aws-dev.png" alt="Smit | AWS-DEV" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/aws-sa.png" alt="Smit | AWS-SA" width="100 px"/>
+   <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/ocpjp.png" alt="Smit | AWS-SA" width="100 px"/>
+    <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/safe.png" alt="Smit | AWS-SA" width="100 px"/>
+     <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/csm.webp" alt="Smit | AWS-SA" width="100 px"/>
 </p>
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
@@ -41,11 +41,11 @@
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
 - Postman Newman Automated Test 
 <p align="center">    
-<img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/postmanproject.jpg" alt="Jatin | Whatsapp" width="500px"/> </p>
+<img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/postmanproject.jpg" alt="Smit | Whatsapp" width="500px"/> </p>
 
 ## 🌱 I'm currently learning
 
-- I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products. 
+- I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products and also currently exploring the integration of AI in automation testing as part of ongoing professional development. 
 
 
 ## 🥇 Achievements
@@ -94,22 +94,22 @@ in test coverage</b>
 
 ## 📈 GitHub Stats 
 
-[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=smitsavla00)](https://github.com/smitsavla00)
+[![Smit's github stats](https://github-readme-stats.vercel.app/api?username=smitsavla00)](https://github.com/smitsavla00)
 
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:jatinvsharma@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:Smitsavla00@gmail.com">Smitsavla00@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/smitsavla//">
-    <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+    <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/linkedin.svg" alt="Smit Savla | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+  <a href="https://www.instagram.com/smit_savla/">
+    <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/instagram.svg" alt="Smit | Instagram" width="21px"/>
   </a>
-  <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+  <a href="https://wa.me/919987162165?text=Hello">
+    <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/whatsapp.png" alt="Smit | Whatsapp" width="21px"/>
   </a>
 </p>
   
