@@ -90,7 +90,7 @@ in test coverage</b>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="Uipath">
+  <img src="https://img.shields.io/badge/UiPath-00FFFF?style=for-the-badge&logo=uipath&logoColor=white" alt="Uipath">
 </p>
 
 ## 📈 GitHub Stats 
