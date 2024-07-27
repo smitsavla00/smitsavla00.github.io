@@ -11,7 +11,7 @@
 ### 🤝 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/smitsavla//">
+  <a href="https://www.linkedin.com/in/smitsavla/">
     <img src="https://raw.githubusercontent.com/smitsavla00/smitsavla00.github.io/main/images/linkedin.svg" alt="Smit Savla | LinkedIn" width="21px"/>
   </a>
   <a href="https://www.instagram.com/smit_savla/">
